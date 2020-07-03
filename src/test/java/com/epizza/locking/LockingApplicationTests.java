@@ -1,4 +1,4 @@
-package com.epages.locking;
+package com.epizza.locking;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
